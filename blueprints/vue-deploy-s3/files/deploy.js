@@ -4,7 +4,7 @@
 module.exports = function(deployTarget) {
   let ENV = {
     build: {
-        localDir: 'build/',
+        localDir: 'dist/',
         deleteRemoved: false,
         s3Params: {
           Bucket: ''

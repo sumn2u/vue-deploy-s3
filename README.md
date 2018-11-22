@@ -132,9 +132,24 @@ Result:
 Starting 'activate:fa51993'...
 Finished 'activate:fa51993' after 6ms
 Activating index file of key fa51993
-Activating service-worker file of key fa51993
 Revision activated successfully
+
+
+```
+
+```
+To revert application to a specific version use the activate command followed by key.
+
+>  vue-deploy-s3 activate 6993120 development
+
+```
+Checking configuration file
+Result:
+Starting 'activate:6993120'...
+Finished 'activate:6993120' after 6ms
+Activating index file of key 6993120
 Revision activated successfully
+
 
 ```
 
