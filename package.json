@@ -1,7 +1,7 @@
 {
   "name": "vue-deploy-s3",
   "description": "CLI tools to deploy vuejs app  to S3 and CloudFront",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "bin": {
     "vue-deploy-s3": "./index.js"
@@ -31,8 +31,10 @@
     "mocha-eslint": "^4.1.0"
   },
   "keywords": [
-    "react-cli",
+    "vue-cli",
     "vue-deploy-s3",
+    "vue deploy",
+    "deploy",
     "cli",
     "react-activate-revisions"
   ],
