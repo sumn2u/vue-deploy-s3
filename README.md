@@ -139,7 +139,6 @@ Revision activated successfully
 
 To revert application to a specific version use the activate command followed by key.
 
-```
 >  vue-deploy-s3 activate 6993120 development
 
 ```
