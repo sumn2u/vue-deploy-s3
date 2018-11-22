@@ -1,7 +1,7 @@
 {
   "name": "vue-deploy-s3",
-  "description": "CLI tools to deploy react-app to S3 and CloudFront",
-  "version": "0.0.2",
+  "description": "CLI tools to deploy vuejs app  to S3 and CloudFront",
+  "version": "0.0.3",
   "main": "index.js",
   "bin": {
     "vue-deploy-s3": "./index.js"
