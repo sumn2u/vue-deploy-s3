@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/issues) [![GitHub forks](https://img.shields.io/github/forks/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/network) [![GitHub stars](https://img.shields.io/github/stars/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/stargazers) [![GitHub license](https://img.shields.io/github/license/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/blob/master/LICENSE)
 [![codecov](https://codecov.io/gh/sumn2u/vue-deploy-s3/branch/master/graph/badge.svg)](https://codecov.io/gh/sumn2u/vue-deploy-s3) [![Build Status](https://travis-ci.org/sumn2u/vue-deploy-s3.svg?branch=master)](https://travis-ci.org/sumn2u/vue-deploy-s3) [![Twitter](https://img.shields.io/twitter/url/https/github.com/sumn2u/vue-deploy-s3.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsumn2u%2Fvue-deploy-s3)
 
->  Deploy react app to s3 and Cloudfront with versioning and activation features.
+>  Deploy vue app to s3 and Cloudfront with versioning and activation features.
 
 ```
 
@@ -16,7 +16,7 @@
 
 ```
 
-This package doesn't build the app, instead use webpack or create-react-app to build your application instead.
+This package doesn't build the app, instead use webpack or vue cli to build your application instead.
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ yarn global add vue-deploy-s3
 
 
 ```
- To initialize setup file for vue-deploy-s3 , go inside your react app project root directory and  use following command 
+ To initialize setup file for vue-deploy-s3 , go inside your vue app project root directory and  use following command 
 
 > vue-deploy-s3 setup
 ```
@@ -80,7 +80,7 @@ Result:
 ```
 It will automatically create a deploy.js file. Now inside deploy.js file put your s3 bucket name, along with ACCESSKEYID and SECERETKEY.
 
-After building your react app. It's time to deploy your app to S3 bucket.
+After building your vue app. It's time to deploy your app to S3 bucket.
 
 > vue-deploy-s3 deploy development
 
