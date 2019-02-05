@@ -2,6 +2,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/issues) [![GitHub forks](https://img.shields.io/github/forks/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/network) [![GitHub stars](https://img.shields.io/github/stars/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/stargazers) [![GitHub license](https://img.shields.io/github/license/sumn2u/vue-deploy-s3.svg)](https://github.com/sumn2u/vue-deploy-s3/blob/master/LICENSE)
 [![codecov](https://codecov.io/gh/sumn2u/vue-deploy-s3/branch/master/graph/badge.svg)](https://codecov.io/gh/sumn2u/vue-deploy-s3) [![Build Status](https://travis-ci.org/sumn2u/vue-deploy-s3.svg?branch=master)](https://travis-ci.org/sumn2u/vue-deploy-s3) [![Twitter](https://img.shields.io/twitter/url/https/github.com/sumn2u/vue-deploy-s3.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsumn2u%2Fvue-deploy-s3)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsumn2u%2Fvue-deploy-s3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsumn2u%2Fvue-deploy-s3?ref=badge_shield)
 
 >  Deploy vue app to s3 and Cloudfront with versioning and activation features.
 
@@ -161,3 +162,6 @@ Small note: If editing the README, please conform to the [standard-readme](https
 ## License
 
 MIT © sumn2u
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsumn2u%2Fvue-deploy-s3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsumn2u%2Fvue-deploy-s3?ref=badge_large)
